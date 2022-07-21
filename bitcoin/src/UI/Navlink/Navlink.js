@@ -23,7 +23,7 @@ import { Header } from "../Header/Header"
        <Route path ="/gbp" element = {<FuntSterling />}/>
       </Routes>
       </Wrapper>
-  )
+  );
 }
 
-export default Navlink
+export default Navlink;
